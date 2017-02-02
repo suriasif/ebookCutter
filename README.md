@@ -1,2 +1,3 @@
 # ebookCutter
-image processing tools
+Bifurcate imaged pages for kindle
+Cut long image into pieces for kindle
