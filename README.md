@@ -1,3 +1,3 @@
 # ebookCutter
-Bifurcate imaged pages for kindle
+Bifurcate imaged pages for kindle.
 Cut long image into pieces for kindle
